@@ -23,10 +23,10 @@ Target: `1` = Heart Disease, `0` = No Heart Disease.
 ## Project Structure
 
 ```
-├── heart_disease_prediction.py # Main ML script
-├── heart.csv # Dataset (download from Kaggle)
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── heart_disease_prediction.py
+├── heart.csv 
+├── requirements.txt 
+└── README.md 
 ```
 
 ## How to Run
