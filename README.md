@@ -33,8 +33,7 @@ Target: `1` = Heart Disease, `0` = No Heart Disease.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/sbhargab/giap_project.git
 ```
 
 ### 2. Install dependencies
